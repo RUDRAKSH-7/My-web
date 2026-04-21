@@ -3,7 +3,7 @@ body {
     font-size : 36;
     background-color: rgb(10,10,10);
     color : white;
-    font-family : Cascadia Mono;
+    font-family : Cascadia Mono, Monospace;
 }
 @media only screen and (max-width: 767px) {
   /* Your mobile-only styles go here */
