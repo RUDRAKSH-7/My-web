@@ -5,6 +5,15 @@ body {
     font-family : monospace
 }
 
+@media only screen and (max-width: 767px) {
+  /* mobile-only styles go here */
+  body {
+    text-wrap: unset;
+    font-size: 32;
+    background-color: rgb(10,10,10);
+  }
+}
+
 #HEAD {
     padding-top: 2%;
     text-align: center;
